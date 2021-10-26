@@ -31,7 +31,8 @@ In this challenge, you need to build a News Feeds Dashboard.
 - You can use this repository as template to create yours.
 - Once created you can add Karthik, Mazahir, Jagan as collaborators.
 - Make sure to refer to the above vercel deployment step before starting your work. 
-1. **Make sure to create an Issue and PR for the create react app step.**
+1. **You need to use CRA: https://reactjs.org/docs/create-a-new-react-app.html**
+    - Make sure to create an Issue and PR for the create react app step.
     - This is so that those steps do not get mixed with PRs created for feature issues.
 2. **Create appropriate issues as you build your application.** 
 3. **Send a pull request and do not push anything to master directly**
